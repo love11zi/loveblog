@@ -1,0 +1,16 @@
+﻿{
+  "name": "loveblog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+	"ejs" : "*",
+	"connect-mongo" : "*",
+	"mongodb" : "*",
+	"express-partials" : "*"
+  }
+}
